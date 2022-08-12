@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on new different types of projects
 - 📫 Ping to reach me through
       GMAIL-@shreyaskumartah@gmail.com ;
-      LINKEDIN- @Shreyas Kumar Tah ;
-      INSTAGRAM- @_skt_shreyas_ 
+      LINKEDIN- @Shreyas Kumar Tah
+  
 
 <!---
 skt-shreyas/skt-shreyas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
